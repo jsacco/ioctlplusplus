@@ -1,4 +1,4 @@
-# ioctlpus [![](https://ci.appveyor.com/api/projects/status/github/jthuraisamy/ioctlpus?branch=master&svg=true&passingText=Download)](https://ci.appveyor.com/project/jthuraisamy/ioctlpus/build/artifacts)
+# IOCTL++ [![](https://ci.appveyor.com/api/projects/status/github/jthuraisamy/ioctlpus?branch=master&svg=true&passingText=Download)](https://ci.appveyor.com/project/jthuraisamy/ioctlpus/build/artifacts)
 
 IOCTL++ can be used to make `DeviceIoControl` requests with arbitrary inputs. 
 The original tool has been improved with a driver hooker allowing the user to capture the data and config of IOCTLs of the target application during runtime.

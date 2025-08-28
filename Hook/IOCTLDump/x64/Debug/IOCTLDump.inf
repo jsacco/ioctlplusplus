@@ -1,0 +1,33 @@
+;
+; IOCTLDump.inf
+;
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=System
+ClassGuid={4d36e97d-e325-11ce-bfc1-08002be10318}
+Provider=%ManufacturerName%
+DriverVer = 08/25/2025,20.19.50.640
+CatalogFile=IOCTLDump.cat
+PnpLockdown=1
+
+[DestinationDirs]
+DefaultDestDir = 12
+
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+
+
+[DefaultInstall.amd64]
+
+[Standard.NTamd64]
+
+
+
+[Strings]
+ManufacturerName="<Your manufacturer name>" ;TODO: Replace with your manufacturer name
+ClassName=""
+DiskName="IOCTLDump Source Disk"

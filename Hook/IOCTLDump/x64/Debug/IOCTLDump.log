@@ -1,0 +1,36 @@
+﻿  Building 'IOCTLDump' with toolset 'WindowsKernelModeDriver10.0' and the 'Windows Driver' target platform.
+  Stamping x64\Debug\IOCTLDump.inf
+  Stamping [Version] section with DriverVer=08/25/2025,20.19.50.640
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\IOCTLDump.inf(24-24): warning 2083: Section [defaultinstall.amd64] not referenced or used.
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\IOCTLDump.inf(26-26): warning 2083: Section [standard.ntamd64] not referenced or used.
+cl : command line  warning D9002: ignoring unknown option '/arch:IA32'
+  Main.cpp
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\IOCTLDump_Kern.h(46,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Main.cpp')
+      C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\IOCTLDump_Kern.h(46,10):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(401,103): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(731,103): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(1055,103): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(1141,21): warning C4456: declaration of 'statBlock' hides previous local declaration
+      C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(1054,18):
+      see declaration of 'statBlock'
+  
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(1391,103): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(1700,103): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(1780,21): warning C4456: declaration of 'statBlock' hides previous local declaration
+      C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(1699,18):
+      see declaration of 'statBlock'
+  
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(2111,103): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(2512,103): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(496,1): warning C4715: 'FastIoHookD': not all control paths return a value
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(825,1): warning C4715: 'FastIoHookW': not all control paths return a value
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(1160,1): warning C4715: 'FastIoHookR': not all control paths return a value
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(1478,1): warning C4715: 'DeviceIoHookW': not all control paths return a value
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(1799,1): warning C4715: 'DeviceIoHookR': not all control paths return a value
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(2198,1): warning C4715: 'DeviceIoHookD': not all control paths return a value
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\Main.cpp(2599,1): warning C4715: 'FileIoHookD': not all control paths return a value
+  IOCTLDump.vcxproj -> C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\x64\Debug\IOCTLDump.sys
+C:\Program Files (x86)\Windows Kits\10\build\10.0.26100.0\WindowsDriver.common.targets(1517,5): error : Invalid argument <CN="WDKTestCert Christopher,132740934503899814" | D6BB68ED23AC7DDB7CF4A85673B8744A4E570DBB> for property <TestCertificate>.

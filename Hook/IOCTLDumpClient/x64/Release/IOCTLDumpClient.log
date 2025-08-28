@@ -1,0 +1,14 @@
+﻿  IOCTLDumpClient.cpp
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDump\IOCTLDump.h(18,9): warning C4005: 'METHOD_FROM_CTL_CODE': macro redefinition
+  (compiling source file 'IOCTLDumpClient.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(281,9):
+      see previous definition of 'METHOD_FROM_CTL_CODE'
+  
+C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\IOCTLDumpClient\IOCTLDumpClient.cpp(20,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IOCTLDumpClient.vcxproj -> C:\Users\jsacco\Desktop\IOCTLDump-master\IOCTLDump-master\x64\Release\IOCTLDumpClient.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

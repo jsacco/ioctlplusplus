@@ -1,19 +1,11 @@
 # ioctlpus [![](https://ci.appveyor.com/api/projects/status/github/jthuraisamy/ioctlpus?branch=master&svg=true&passingText=Download)](https://ci.appveyor.com/project/jthuraisamy/ioctlpus/build/artifacts)
 
-ioctlpus can be used to make `DeviceIoControl` requests with arbitrary inputs (with functionality somewhat similar to Burp Repeater).
+IOCTL++ can be used to make `DeviceIoControl` requests with arbitrary inputs. 
+The original tool has been improved with a driver hooker allowing the user to capture the data and config of IOCTLs of the target application during runtime.
 
 Here is an example of an information leak triggered in a sample vulnerable driver:
 
-<p align="center"><img src="https://imgur.com/a/Db7HKmY" /></p>
-
-## Tentative Roadmap
-
-- [x] Create handles using Device Interface GUIDs in addition to symbolic links. [[GIF](https://i.imgur.com/R9WkgHG.gif)]
-- [ ] Persist requests to SQLite databases.
-- [ ] Apply filters to request history.
-- [ ] Integrate Kaitai Struct to define and view buffer structures ([inspired by](https://github.com/kaitai-io/kaitai_struct_webide/wiki/Features)).
-- [ ] Develop an API to use the tool headlessly (e.g. for fuzzing).
-- [ ] Design a cool logo.
+<p align="center"><img src="https://i.imgur.com/p2kfNjN.png" /></p>
 
 ## Similar Tools
 

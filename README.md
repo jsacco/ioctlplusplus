@@ -4,7 +4,7 @@ ioctlpus can be used to make `DeviceIoControl` requests with arbitrary inputs (w
 
 Here is an example of an information leak triggered in a sample vulnerable driver:
 
-<p align="center"><img src="https://i.imgur.com/t8Vx9ew.png" /></p>
+<p align="center"><img src="https://imgur.com/a/Db7HKmY" /></p>
 
 ## Tentative Roadmap
 

@@ -3,7 +3,7 @@
 IOCTL++ can be used to make `DeviceIoControl` requests with arbitrary inputs. 
 The original tool has been improved with a driver hooker allowing the user to capture the data and config of IOCTLs of the target application during runtime.
 
-Here is an example of an information leak triggered in a sample vulnerable driver:
+Here is an example of an ZwTerminationProcess triggered in a sample vulnerable driver:
 
 <p align="center"><img src="https://i.imgur.com/p2kfNjN.png" /></p>
 

@@ -1,0 +1,12 @@
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\bin\Debug\ioctlpus.exe.config
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\bin\Debug\ioctlpus.exe
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\bin\Debug\ioctlpus.pdb
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\obj\Debug\ioctlpus.csproj.AssemblyReference.cache
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\obj\Debug\ioctlpus.AboutForm.resources
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\obj\Debug\ioctlpus.MainForm.resources
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\obj\Debug\ioctlpus.Properties.Resources.resources
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\obj\Debug\ioctlpus.csproj.GenerateResource.cache
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\obj\Debug\ioctlpus.csproj.CoreCompileInputs.cache
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\obj\Debug\ioctlpus.csproj.Up2Date
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\obj\Debug\ioctlpus.exe
+C:\Users\jsacco\Desktop\Kernel Project\Tools KernelExploit\ioctlpus-master\ioctlpus-master\ioctlpus\obj\Debug\ioctlpus.pdb

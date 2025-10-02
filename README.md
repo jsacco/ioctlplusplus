@@ -1,5 +1,9 @@
 # IOCTL++ [![](https://ci.appveyor.com/api/projects/status/github/jthuraisamy/ioctlpus?branch=master&svg=true&passingText=Download)](https://github.com/jsacco/ioctlplusplus/archive/refs/heads/main.zip)
 
+## THIS IS AN OLD VERSION OF IOCTL++
+## Download the latest version with more features from https://exploitpack.com
+## Included in Exploit Pack tool
+
 IOCTL++ can be used to make `DeviceIoControl` requests with arbitrary inputs. 
 The original tool has been improved with a driver hooker allowing the user to capture the data and config of IOCTLs of the target application during runtime.
 

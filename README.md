@@ -1,7 +1,7 @@
-### IOCTL++ 
+## IOCTL++ 
 It's a tool that can make DeviceIoControl requests with arbitrary inputs. The original tool has been improved with a driver helper and a driver hooker allowing the user to capture the data and config of IOCTLs of the target application during runtime.
 
-## Workflow of IOCTL++:
+### Workflow of IOCTL++:
 1. Start the kernel hook. This action is going to load a second helper driver, this driver will allow you to hook IOCTLs from the target driver.
 2. If not loaded yet, you can load the target driver using IOCTL++ (top-right)
 3. Select from device to be hooked, and click on Hook IOCTLs to enable the hooking of the IOCTLs from the DriverHooks <-> Target Driver

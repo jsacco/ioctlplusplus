@@ -1,4 +1,4 @@
-## IOCTL++ by Juan Sacco <jsacco@exploitpack.com> https://exploitpack.com
+## IOCTL++ by Juan Sacco <<jsacco@exploitpack.com>> https://exploitpack.com
 It's a tool that can make DeviceIoControl requests with arbitrary inputs. The original tool has been improved with a driver helper and a driver hooker allowing the user to capture the data and config of IOCTLs of the target application during runtime.
 
 ### Workflow of IOCTL++:

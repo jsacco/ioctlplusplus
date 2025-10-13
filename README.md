@@ -28,3 +28,5 @@ Kernel Log, it's similar to DbgView tool from Sysinternals but it's much more ha
 
 <img src="https://cdn.shopify.com/s/files/1/0918/4162/6445/files/Screenshot_from_2025-09-25_18-56-12.png?v=1758819444">
 
+
+This tool is based on: https://github.com/jthuraisamy/ioctlpus
